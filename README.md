@@ -7,6 +7,13 @@ Agro Navigation is a tiny and fast GPS navigation app (iOs, Android) for paralle
 The Agro Navigation helps you navigate in parallel lines while driving in the field.
 You can see on your smartphone if you have an underspread of chemicals, which can improve the efficiency of your farming work.
 
+https://shlyagin.ru/agro-navigation/
+
+[![image](https://user-images.githubusercontent.com/54446451/159944768-9d67f01b-6657-4abf-8b83-6af861813203.png)](https://apps.apple.com/ru/app/agro-navigation/id1625258870)
+
+[![image](https://user-images.githubusercontent.com/54446451/159944833-5c906f5f-61c7-4b45-8715-b167915c0620.png)](https://play.google.com/store/apps/details?id=com.shlyagin.parallel_driving)
+
+
 Low GPS accuracy is the main problem of using AGRO NAVIGATION APP. If the phone is arranged in the cabin of the vehicle, the GPS signal may be shielded by the top plate of the cabin.
 
 External receiver can be placed on the top of the tractor and connected to the phone via bluetooth.
