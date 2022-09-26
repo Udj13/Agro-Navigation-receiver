@@ -118,7 +118,9 @@ Solder the jumper.
 
 ![image](https://user-images.githubusercontent.com/54446451/192332680-483529e2-ad33-4674-af27-58dda2daa0f5.png)
 
-Print case.
+Print case. 
+
+https://github.com/Udj13/Agro-Navigation-receiver/blob/main/gps%20receiver.stl
 
 ![image](https://user-images.githubusercontent.com/54446451/192332779-a4e65086-50dc-459f-b07a-9ecf0b83bb04.png)
 
