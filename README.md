@@ -122,6 +122,15 @@ Print case.
 
 ![image](https://user-images.githubusercontent.com/54446451/192332779-a4e65086-50dc-459f-b07a-9ecf0b83bb04.png)
 
+Assemble the device. Сut off the legs of the LED.
+
+![image](https://user-images.githubusercontent.com/54446451/192334140-bb86a1de-a44e-492e-8067-1390fb8e1eed.png)
+
+![image](https://user-images.githubusercontent.com/54446451/192334551-9c44bbf6-8639-4798-a0ca-bc41f963d9b5.png)
+
+![image](https://user-images.githubusercontent.com/54446451/192334318-b11bdb39-c672-4ae7-92f6-a22b0b81eaba.png)
+
+![image](https://user-images.githubusercontent.com/54446451/192334396-0a5e6fd1-aea6-40e9-9fba-7dc29989ee5a.png)
 
 
 
