@@ -154,6 +154,6 @@ First install the app on your phone.
 
 In the parallel driving app: Settings -> Connect external GPS receiver… 
 
-![image](https://user-images.githubusercontent.com/54446451/192337802-d58eff47-4906-485d-8a87-34b2497cb98f.png)
+![image](https://user-images.githubusercontent.com/54446451/192339032-12334d23-4ad8-4c22-96b9-7c42a1ece3a7.png)
 
 The connection icon is displayed on the left on the main screen when the GPS receiver is connected.
