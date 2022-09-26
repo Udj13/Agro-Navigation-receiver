@@ -89,17 +89,42 @@ Because the AGRO NAVIGATION app accepts a NMEA data stream, any external receive
 To create your own GPS AGRO NAVIGATION receiver you will be wiring only two modules. The GPS module (from u-blox) and the bluetooth UART module.
 
 GPS: Neo-6M (low accuracy, external antenna required), NEO-7M, NEO-8M
+
+![image](https://user-images.githubusercontent.com/54446451/192331144-a0ec966c-a7f0-4a36-98e2-09ca9ee466da.png)
+
+The easiest way is to use the module with built-in GPS/GNSS antenna and USB connector
+
+![image](https://user-images.githubusercontent.com/54446451/192331362-aef31ed4-a5da-4fb3-861a-ec3518bad729.png)
+
 Bluetooth: HM-10
 
-The easiest way is to use the module with built -in GPS/GNSS antenna and USB connector
+![image](https://user-images.githubusercontent.com/54446451/192330582-9fdb2f72-698b-43bb-b2df-02b6ece3b08c.png)
 
 ## Wiring
 
 Connect the power pins (VCC, GND) of both modules. Then connect TX-pin GPS to RX-pin Bluetooth.
 
+![image](https://user-images.githubusercontent.com/54446451/192331728-f2b793fa-9cbb-43ba-8480-3eb963aa0504.png)
+
+![image](https://user-images.githubusercontent.com/54446451/192331898-ed50d8ad-1472-4218-9e6c-7da237a900ab.png)
+
 ## Case printing
 
 You can 3d print the case, if you want.
+
+![image](https://user-images.githubusercontent.com/54446451/192332293-ef468b10-6526-4c64-99ac-65d437ed8901.png)
+
+Solder the jumper.
+
+![image](https://user-images.githubusercontent.com/54446451/192332680-483529e2-ad33-4674-af27-58dda2daa0f5.png)
+
+Print case.
+
+![image](https://user-images.githubusercontent.com/54446451/192332779-a4e65086-50dc-459f-b07a-9ecf0b83bb04.png)
+
+
+
+
 
 ## Setup GPS module
 
