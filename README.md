@@ -9,11 +9,14 @@ You can see on your smartphone if you have an underspread of chemicals, which ca
 
 https://shlyagin.ru/agro-navigation/
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/I6HTStWH_PI/0.jpg)](http://www.youtube.com/watch?v=I6HTStWH_PI)
+
+
 [![image](https://user-images.githubusercontent.com/54446451/159944768-9d67f01b-6657-4abf-8b83-6af861813203.png)](https://apps.apple.com/ru/app/agro-navigation/id1625258870)
 
 [![image](https://user-images.githubusercontent.com/54446451/159944833-5c906f5f-61c7-4b45-8715-b167915c0620.png)](https://play.google.com/store/apps/details?id=com.shlyagin.parallel_driving)
 
-[![AGRO NAVIGATION video](https://user-images.githubusercontent.com/54446451/192274331-f42de192-308b-4260-a28e-7538e0a617b6.png)](https://youtu.be/I6HTStWH_PI)
+
 
 
 
