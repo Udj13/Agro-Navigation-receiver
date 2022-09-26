@@ -1,6 +1,6 @@
 # Agro-Navigation-receiver
 
-![image](https://user-images.githubusercontent.com/54446451/192328273-78c670e0-7acf-44ea-82bb-13d43defdd4a.png)
+![image](https://user-images.githubusercontent.com/54446451/192328353-de5d13e1-79c2-46a0-b84a-97f5fcf3eff6.png)
 
 Building instructions DIY GPS receiver for the parallel driving app.
 
