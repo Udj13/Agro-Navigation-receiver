@@ -134,17 +134,26 @@ Assemble the device. Сut off the legs of the LED.
 
 ![image](https://user-images.githubusercontent.com/54446451/192334396-0a5e6fd1-aea6-40e9-9fba-7dc29989ee5a.png)
 
-
+![image](https://user-images.githubusercontent.com/54446451/192336644-f192ef51-9946-44fd-9eda-9e8b9614c351.png)
 
 
 ## Setup GPS module
 
 Download u-center from https://www.u-blox.com/en/product/u-center (Windows only), and set up your GPS module.
 
+![image](https://user-images.githubusercontent.com/54446451/192336721-4a7ae506-ddcb-4f99-aea3-c281dda86965.png)
+
+
 ## AGRO NAVIGATION app connection
 
 First install the app on your phone.
 
+[![AppStore](https://user-images.githubusercontent.com/54446451/159944768-9d67f01b-6657-4abf-8b83-6af861813203.png)](https://apps.apple.com/ru/app/agro-navigation/id1625258870)
+
+[![Google Play](https://user-images.githubusercontent.com/54446451/159944833-5c906f5f-61c7-4b45-8715-b167915c0620.png)](https://play.google.com/store/apps/details?id=com.shlyagin.parallel_driving)
+
 In the parallel driving app: Settings -> Connect external GPS receiver… 
+
+![image](https://user-images.githubusercontent.com/54446451/192337802-d58eff47-4906-485d-8a87-34b2497cb98f.png)
 
 The connection icon is displayed on the left on the main screen when the GPS receiver is connected.
