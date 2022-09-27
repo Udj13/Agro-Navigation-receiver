@@ -35,9 +35,7 @@ The Agro Navigation helps you navigate in parallel lines while driving in the fi
 
 #### 2. Press «Start» to start working
 
-   After press «Start» you will see a wide trail
-
-   that is drawn behind the tractor.
+   After pressing «Start» you will see the wide trail drawn behind the tractor.
    
 ---
 
@@ -53,7 +51,7 @@ That's all! Follow the green lines.
 
 Watch the YouTube “Agro Navigation app for parallel driving”:
 
-[![YouTube ARGO NAVIGATION video](https://user-images.githubusercontent.com/54446451/192523244-19a04253-3954-43fe-a571-c7dc4f664974.png)](http://www.youtube.com/watch?v=I6HTStWH_PI)
+[![YouTube ARGO NAVIGATION video](https://user-images.githubusercontent.com/54446451/192575023-37407cff-fd5b-4029-8cf2-0abfb9fea500.png)](http://www.youtube.com/watch?v=I6HTStWH_PI)
 
 Please note that the accuracy depends on the smartphone's GPS. Some models are not accurate enough.
 
