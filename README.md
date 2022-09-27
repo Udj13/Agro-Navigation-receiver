@@ -83,7 +83,7 @@ Because the AGRO NAVIGATION app accepts a NMEA data stream, any external receive
 
 First tests bluetooth GPS receiver:
 
-[![first bluetooth GPS receiver test](http://img.youtube.com/vi/mBkVWZwkZDU/0.jpg)](http://www.youtube.com/watch?v=mBkVWZwkZDU)
+[![first bluetooth GPS receiver test](https://user-images.githubusercontent.com/54446451/192575738-34f62dea-8552-486a-b1ed-8ecb7421890b.png)](http://www.youtube.com/watch?v=mBkVWZwkZDU)
 
 
 ## Components
@@ -167,4 +167,4 @@ The connection icon is displayed on the left on the main screen when the GPS rec
 
 YouTube:
 
-[![YouTube GPS receiver connection in ARGO NAVIGATION](http://img.youtube.com/vi/7Vs9jBaqPb4/0.jpg)](http://www.youtube.com/watch?v=7Vs9jBaqPb4)
+[![YouTube GPS receiver connection in ARGO NAVIGATION](https://user-images.githubusercontent.com/54446451/192575921-292cc52d-cd95-4a29-aa2f-167a8d197ba0.png)](http://www.youtube.com/watch?v=7Vs9jBaqPb4)
