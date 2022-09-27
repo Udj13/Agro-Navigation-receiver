@@ -75,10 +75,6 @@ Note:
 Turns will be displayed with a delay.
 Heading may be wrong at low speed.](https://user-images.githubusercontent.com/54446451/192325605-54100f03-de39-486c-af4d-93c52a3b2c1c.png)
 
-First tests:
-
-[![first receiver test](http://img.youtube.com/vi/mBkVWZwkZDU/0.jpg)](http://www.youtube.com/watch?v=mBkVWZwkZDU)
-
 ## Why do you need an external receiver?
 
 Low GPS accuracy is the main problem of using AGRO NAVIGATION APP. If the phone is arranged in the cabin of the vehicle, the GPS signal may be shielded by the top plate of the cabin.
@@ -86,6 +82,11 @@ Low GPS accuracy is the main problem of using AGRO NAVIGATION APP. If the phone 
 External receiver can be placed on the top of the tractor and connected to the phone via bluetooth.
 
 Because the AGRO NAVIGATION app accepts a NMEA data stream, any external receiver can be connected to it.
+
+First tests bluetooth GPS receiver:
+
+[![first bluetooth GPS receiver test](http://img.youtube.com/vi/mBkVWZwkZDU/0.jpg)](http://www.youtube.com/watch?v=mBkVWZwkZDU)
+
 
 ## Components
 
@@ -159,6 +160,8 @@ First install the app on your phone.
 [![Google Play](https://user-images.githubusercontent.com/54446451/159944833-5c906f5f-61c7-4b45-8715-b167915c0620.png)](https://play.google.com/store/apps/details?id=com.shlyagin.parallel_driving)
 
 In the parallel driving app: Settings -> Connect external GPS receiver… 
+
+Then find and connect the bluetooth module.
 
 ![app screenshot](https://user-images.githubusercontent.com/54446451/192339032-12334d23-4ad8-4c22-96b9-7c42a1ece3a7.png)
 
