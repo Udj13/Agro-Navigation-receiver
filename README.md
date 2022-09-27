@@ -138,6 +138,7 @@ Assemble the device. Сut off the legs of the LED.
 
 ![image](https://user-images.githubusercontent.com/54446451/192336644-f192ef51-9946-44fd-9eda-9e8b9614c351.png)
 
+Use the USB connector to power the device.
 
 ## Setup GPS module
 
