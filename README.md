@@ -1,4 +1,4 @@
-# Agro-Navigation-receiver
+# Agro Navigation external BLUETOOTH GPS receiver
 
 ![image](https://user-images.githubusercontent.com/54446451/192328353-de5d13e1-79c2-46a0-b84a-97f5fcf3eff6.png)
 
