@@ -51,7 +51,7 @@ The Agro Navigation helps you navigate in parallel lines while driving in the fi
 
 That's all! Follow the green lines.
 
-Watch the YouTube “Agro Navigation app for parallel driving”.
+Watch the YouTube “Agro Navigation app for parallel driving”:
 
 [![YouTube ARGO NAVIGATION video](http://img.youtube.com/vi/I6HTStWH_PI/0.jpg)](http://www.youtube.com/watch?v=I6HTStWH_PI)
 
@@ -75,6 +75,9 @@ Note:
 Turns will be displayed with a delay.
 Heading may be wrong at low speed.](https://user-images.githubusercontent.com/54446451/192325605-54100f03-de39-486c-af4d-93c52a3b2c1c.png)
 
+First tests:
+
+[![first receiver test](http://img.youtube.com/vi/mBkVWZwkZDU/0.jpg)](http://www.youtube.com/watch?v=mBkVWZwkZDU)
 
 ## Why do you need an external receiver?
 
