@@ -168,3 +168,13 @@ The connection icon is displayed on the left on the main screen when the GPS rec
 YouTube:
 
 [![YouTube GPS receiver connection in ARGO NAVIGATION](https://user-images.githubusercontent.com/54446451/192575921-292cc52d-cd95-4a29-aa2f-167a8d197ba0.png)](http://www.youtube.com/watch?v=7Vs9jBaqPb4)
+
+## GPS receiver accuracy test
+
+GPS module NEO 7m with external antenna has accuracy 0.2-0.3 m (8-10 inch)
+![image](https://user-images.githubusercontent.com/54446451/195321947-cdf17440-8a72-4312-ab21-1e451adc37bd.png)
+
+I used a standard antenna for tests.
+![image](https://user-images.githubusercontent.com/54446451/195322700-527bf7dc-1a44-4731-aeb1-9572e459930b.png)
+
+
