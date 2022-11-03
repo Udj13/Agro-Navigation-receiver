@@ -98,7 +98,7 @@ The easiest way is to use the module with built-in GPS/GNSS antenna and USB conn
 
 ![image](https://user-images.githubusercontent.com/54446451/192331362-aef31ed4-a5da-4fb3-861a-ec3518bad729.png)
 
-### External GPS antenna (really improves accuracy)
+### External GPS antenna (really improves accuracy parallel driving)
 
 ![image](https://user-images.githubusercontent.com/54446451/199713730-1520d1e1-d88e-4eb8-b526-249ee967dac8.png)
 
