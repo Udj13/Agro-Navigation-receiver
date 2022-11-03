@@ -178,7 +178,7 @@ YouTube:
 GPS module NEO 7m with external antenna has accuracy 0.2-0.3 m (8-10 inch)
 ![image](https://user-images.githubusercontent.com/54446451/195321947-cdf17440-8a72-4312-ab21-1e451adc37bd.png)
 
-I used a standard antenna for tests.
+I used a standard SMA GPS antenna for tests.
 ![image](https://user-images.githubusercontent.com/54446451/195322700-527bf7dc-1a44-4731-aeb1-9572e459930b.png)
 
 
