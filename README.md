@@ -90,7 +90,7 @@ First tests bluetooth GPS receiver:
 
 To create your own GPS AGRO NAVIGATION receiver you will be wiring only two modules. The GPS module (from u-blox) and the bluetooth UART module.
 
-GPS: Neo-6M (low accuracy, external antenna required), NEO-7M, NEO-8M
+### GPS: Neo-6M (low accuracy, external antenna required), NEO-7M, NEO-8M
 
 ![image](https://user-images.githubusercontent.com/54446451/192331144-a0ec966c-a7f0-4a36-98e2-09ca9ee466da.png)
 
@@ -98,7 +98,11 @@ The easiest way is to use the module with built-in GPS/GNSS antenna and USB conn
 
 ![image](https://user-images.githubusercontent.com/54446451/192331362-aef31ed4-a5da-4fb3-861a-ec3518bad729.png)
 
-Bluetooth: HM-10
+### External GPS antenna (really improves accuracy)
+
+![image](https://user-images.githubusercontent.com/54446451/199713730-1520d1e1-d88e-4eb8-b526-249ee967dac8.png)
+
+### Bluetooth: HM-10
 
 ![image](https://user-images.githubusercontent.com/54446451/192330582-9fdb2f72-698b-43bb-b2df-02b6ece3b08c.png)
 
