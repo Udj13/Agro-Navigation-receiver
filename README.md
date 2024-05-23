@@ -109,6 +109,9 @@ The easiest way is to use the module with built-in GPS/GNSS antenna and USB conn
 
 ![image](https://user-images.githubusercontent.com/54446451/192330582-9fdb2f72-698b-43bb-b2df-02b6ece3b08c.png)
 
+> [!IMPORTANT]
+> You should buy a module with BLE support. The SERIAL bluetooth doesn't work with iPhones and iPads and is therefore not supported.
+
 ## Wiring
 
 Connect the power pins (VCC, GND) of both modules. Then connect TX-pin GPS to RX-pin Bluetooth.
