@@ -4,6 +4,9 @@
 
 Building instructions DIY GPS receiver for the parallel driving app.
 
+This is the easiest receiver to assemble, U-blox module is used, but it has standard accuracy and may not work with some Android phones
+
+You can assemble an other receiver with decimeter accuracy (GPS L5) with the TAU1201 module, using instructions - https://github.com/Udj13/gps-ble-receiver
 
 ## What is the AGRO NAVIGATION app? 
 Agro Navigation is a tiny and fast GPS navigation app (iOs, Android) for parallel driving that helps farmers on fertilizers and pesticides.
